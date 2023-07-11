@@ -1,0 +1,17 @@
+{
+  "name": "Amplify/Lambda Build-log-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Anuj Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-amplify": "^3.358.0",
+    "@aws-sdk/client-ses": "^3.358.0",
+    "mimemessage": "^1.0.5"
+  }
+}
